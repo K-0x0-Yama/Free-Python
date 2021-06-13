@@ -12,3 +12,19 @@ snake_case
 Case sensitive(Hellとhellは別の変数)
 
 '''
+
+
+hello = "konnichiwa"
+world = "sekai"
+print(hello + world)
+
+
+# format
+
+
+# 文字列メソッドの呼び方
+print("{} {}".format(hello, world))
+
+name = "John"
+print("Hey, {}!! How are you doing?".format(name))
+
